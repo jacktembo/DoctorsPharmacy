@@ -1,0 +1,19 @@
+#order-search-box {
+  margin:0px;
+  padding:0px;
+  padding-left: 20px;
+  background: #FFFFFF url("assets/img/magnify.svg")
+          no-repeat scroll;
+  background-position: right 30px center;
+}
+
+.order-list {
+  max-height: 570px;
+  height:auto !important;
+  overflow: auto;
+  width: auto;
+  overflow-x: hidden;
+}
+
+
+
