@@ -1,6 +1,6 @@
 
 
-# Web App for administrating Pharmacy Android App 
+# Doctors, Pharmacy, and Users API Backemd - Jack Tembo 
 
 
 ## Features
